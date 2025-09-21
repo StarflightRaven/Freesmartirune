@@ -35,11 +35,15 @@
   "name":"Freesmartarune",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sound_test","path":"rooms/sound_test/sound_test.yy",},},
+    {"id":{"name":"will","path":"sprites/will/will.yy",},},
+    {"id":{"name":"dark_world","path":"tilesets/dark_world/dark_world.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"sound_test","path":"rooms/sound_test/sound_test.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
